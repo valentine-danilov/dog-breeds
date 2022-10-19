@@ -1,0 +1,8 @@
+### Get Dog Breed image by master and sub breed
+GET http://localhost:8080/v1/dogs/breeds/bulldog/boston/image
+
+### Get Dog Breed image by master breed
+GET http://localhost:8080/v1/dogs/breeds/akita/image
+
+### Get all Dog Breeds
+GET http://localhost:8080/v1/dogs/breeds

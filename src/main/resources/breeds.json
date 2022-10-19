@@ -1,0 +1,586 @@
+[
+  {
+    "master_breed": "affenpinscher",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "african",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "airedale",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "akita",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "appenzeller",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "australian",
+    "additional_breed": "shepherd"
+  },
+  {
+    "master_breed": "basenji",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "beagle",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "bluetick",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "borzoi",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "bouvier",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "boxer",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "brabancon",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "briard",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "buhund",
+    "additional_breed": "norwegian"
+  },
+  {
+    "master_breed": "bulldog",
+    "additional_breed": "boston"
+  },
+  {
+    "master_breed": "bulldog",
+    "additional_breed": "english"
+  },
+  {
+    "master_breed": "bulldog",
+    "additional_breed": "french"
+  },
+  {
+    "master_breed": "bullterrier",
+    "additional_breed": "staffordshire"
+  },
+  {
+    "master_breed": "cattledog",
+    "additional_breed": "australian"
+  },
+  {
+    "master_breed": "chihuahua",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "chow",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "clumber",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "cockapoo",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "collie",
+    "additional_breed": "border"
+  },
+  {
+    "master_breed": "coonhound",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "corgi",
+    "additional_breed": "cardigan"
+  },
+  {
+    "master_breed": "cotondetulear",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "dachshund",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "dalmatian",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "dane",
+    "additional_breed": "great"
+  },
+  {
+    "master_breed": "deerhound",
+    "additional_breed": "scottish"
+  },
+  {
+    "master_breed": "dhole",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "dingo",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "doberman",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "elkhound",
+    "additional_breed": "norwegian"
+  },
+  {
+    "master_breed": "entlebucher",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "eskimo",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "finnish",
+    "additional_breed": "lapphund"
+  },
+  {
+    "master_breed": "frise",
+    "additional_breed": "bichon"
+  },
+  {
+    "master_breed": "germanshepherd",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "greyhound",
+    "additional_breed": "italian"
+  },
+  {
+    "master_breed": "groenendael",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "havanese",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "hound",
+    "additional_breed": "afghan"
+  },
+  {
+    "master_breed": "hound",
+    "additional_breed": "basset"
+  },
+  {
+    "master_breed": "hound",
+    "additional_breed": "blood"
+  },
+  {
+    "master_breed": "hound",
+    "additional_breed": "english"
+  },
+  {
+    "master_breed": "hound",
+    "additional_breed": "ibizan"
+  },
+  {
+    "master_breed": "hound",
+    "additional_breed": "plott"
+  },
+  {
+    "master_breed": "hound",
+    "additional_breed": "walker"
+  },
+  {
+    "master_breed": "husky",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "keeshond",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "kelpie",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "komondor",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "kuvasz",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "labradoodle",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "labrador",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "leonberg",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "lhasa",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "malamute",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "malinois",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "maltese",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "mastiff",
+    "additional_breed": "bull"
+  },
+  {
+    "master_breed": "mastiff",
+    "additional_breed": "english"
+  },
+  {
+    "master_breed": "mastiff",
+    "additional_breed": "tibetan"
+  },
+  {
+    "master_breed": "mexicanhairless",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "mix",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "mountain",
+    "additional_breed": "bernese"
+  },
+  {
+    "master_breed": "mountain",
+    "additional_breed": "swiss"
+  },
+  {
+    "master_breed": "newfoundland",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "otterhound",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "ovcharka",
+    "additional_breed": "caucasian"
+  },
+  {
+    "master_breed": "papillon",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "pekinese",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "pembroke",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "pinscher",
+    "additional_breed": "miniature"
+  },
+  {
+    "master_breed": "pitbull",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "pointer",
+    "additional_breed": "german"
+  },
+  {
+    "master_breed": "pointer",
+    "additional_breed": "germanlonghair"
+  },
+  {
+    "master_breed": "pomeranian",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "poodle",
+    "additional_breed": "medium"
+  },
+  {
+    "master_breed": "poodle",
+    "additional_breed": "miniature"
+  },
+  {
+    "master_breed": "poodle",
+    "additional_breed": "standard"
+  },
+  {
+    "master_breed": "poodle",
+    "additional_breed": "toy"
+  },
+  {
+    "master_breed": "pug",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "puggle",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "pyrenees",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "redbone",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "retriever",
+    "additional_breed": "chesapeake"
+  },
+  {
+    "master_breed": "retriever",
+    "additional_breed": "curly"
+  },
+  {
+    "master_breed": "retriever",
+    "additional_breed": "flatcoated"
+  },
+  {
+    "master_breed": "retriever",
+    "additional_breed": "golden"
+  },
+  {
+    "master_breed": "ridgeback",
+    "additional_breed": "rhodesian"
+  },
+  {
+    "master_breed": "rottweiler",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "saluki",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "samoyed",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "schipperke",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "schnauzer",
+    "additional_breed": "giant"
+  },
+  {
+    "master_breed": "schnauzer",
+    "additional_breed": "miniature"
+  },
+  {
+    "master_breed": "setter",
+    "additional_breed": "english"
+  },
+  {
+    "master_breed": "setter",
+    "additional_breed": "gordon"
+  },
+  {
+    "master_breed": "setter",
+    "additional_breed": "irish"
+  },
+  {
+    "master_breed": "sharpei",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "sheepdog",
+    "additional_breed": "english"
+  },
+  {
+    "master_breed": "sheepdog",
+    "additional_breed": "shetland"
+  },
+  {
+    "master_breed": "shiba",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "shihtzu",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "spaniel",
+    "additional_breed": "blenheim"
+  },
+  {
+    "master_breed": "spaniel",
+    "additional_breed": "brittany"
+  },
+  {
+    "master_breed": "spaniel",
+    "additional_breed": "cocker"
+  },
+  {
+    "master_breed": "spaniel",
+    "additional_breed": "irish"
+  },
+  {
+    "master_breed": "spaniel",
+    "additional_breed": "japanese"
+  },
+  {
+    "master_breed": "spaniel",
+    "additional_breed": "sussex"
+  },
+  {
+    "master_breed": "spaniel",
+    "additional_breed": "welsh"
+  },
+  {
+    "master_breed": "springer",
+    "additional_breed": "english"
+  },
+  {
+    "master_breed": "stbernard",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "american"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "australian"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "bedlington"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "border"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "cairn"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "dandie"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "fox"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "irish"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "kerryblue"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "lakeland"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "norfolk"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "norwich"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "patterdale"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "russell"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "scottish"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "sealyham"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "silky"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "tibetan"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "toy"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "welsh"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "westhighland"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "wheaten"
+  },
+  {
+    "master_breed": "terrier",
+    "additional_breed": "yorkshire"
+  },
+  {
+    "master_breed": "tervuren",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "vizsla",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "waterdog",
+    "additional_breed": "spanish"
+  },
+  {
+    "master_breed": "weimaraner",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "whippet",
+    "additional_breed": null
+  },
+  {
+    "master_breed": "wolfhound",
+    "additional_breed": "irish"
+  }
+]
